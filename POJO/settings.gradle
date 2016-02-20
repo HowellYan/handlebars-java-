@@ -1,0 +1,6 @@
+rootProject.name = 'POJO'
+include 'POJO-Web'
+include 'POJO-Common'
+include 'POJO-TemplateEngine'
+include 'POJO-TemplateEngine-api'
+
